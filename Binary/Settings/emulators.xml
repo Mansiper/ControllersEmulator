@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emulators><emul name="Example"><device type="8" address="1"/><device type="5" address="2"/><device type="8" address="3"/><device type="8" address="4"/><device type="0" address="8"/><device type="0" address="16"/><device type="0" address="24"/><device type="0" address="32"/></emul></emulators>
